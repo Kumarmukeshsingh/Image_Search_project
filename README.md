@@ -1,6 +1,6 @@
 # Image_Search_project
 
-in this image_search_project i am use various type of tool and technology for the image finding and image serching.
+in this image_search_project i am use various type of tool and technology for the image finding and image searching.
 
 1>. HTML(hypertext markup language) use for the best structure of the body.
 
@@ -8,4 +8,4 @@ in this image_search_project i am use various type of tool and technology for th
 
 3>. JAVASCRIPT use for the momvement and ract in a body then work properly our image serch web.
 
-4>. 
+4>. in this project i also use the https://unsplash.com for connect the image and also use finding the image .
